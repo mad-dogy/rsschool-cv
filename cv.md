@@ -23,7 +23,7 @@ I live in Minsk. I'm 17 years old freshman of Belarusian State University of Inf
 * English (B1)
 ### Code example
 ```void BubbleSort(Student* list, int size) {
-	for (int i = 0; i < size; i++) {             //сортировка методом пузырька
+	for (int i = 0; i < size; i++) {       
 		for (int j = 0; j < size - 1; j++) {
 			if (list[j].score < list[j + 1].score) {
 				Student temp = list[j];
