@@ -14,10 +14,12 @@ I live in Minsk. I'm 17 years old freshman of Belarusian State University of Inf
 * Teamwork
 * Responsability
 ### Hard skills
+* HTML
+* CSS
+* JavaScript
 * C++
 * Git
 * VS Code
-* Visual Studio
 * Adobe Photoshop
 * AutoCAD
 * English (B1)
