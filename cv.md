@@ -40,6 +40,6 @@ I live in Minsk. I'm 17 years old freshman of Belarusian State University of Inf
 No work experience
 ### Education
 Incomplete higher education in BSUIR. Specialty: Automated information processing systems.
-I have a couple of C++ projects. 
+I have a couple of C++ projects. I passed JS/FE PRE-SCHOOL 2022Q4.
 ### English
 My level of English language is B1. I studied English at school and continue to study it at university. I often learn English by myself (for example, I watch a videos on YouTube or movies). 
